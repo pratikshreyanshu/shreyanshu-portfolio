@@ -1,4 +1,4 @@
-# Shreyanshu Pratik — Developer Portfolio
+﻿# Shreyanshu Pratik â€” Developer Portfolio
 
 <<<<<<< HEAD
 A modern, responsive developer portfolio built with React, Vite, Tailwind CSS and Framer Motion.
@@ -29,7 +29,7 @@ I am interested in software development, frontend development and modern web tec
 =======
 A modern, responsive personal portfolio website built with React.js and Tailwind CSS to showcase my skills, education, resume, and professional profile.
 
-## 🌐 Live Portfolio
+## ðŸŒ Live Portfolio
 
 **Portfolio:**  
 https://shreyanshu-portfolio-tawny.vercel.app
@@ -42,7 +42,7 @@ pratikshreyanshu@gmail.com
 
 ---
 
-## 👨‍💻 About
+## ðŸ‘¨â€ðŸ’» About
 
 I'm an Information Technology student and aspiring Software Developer passionate about building modern web applications and creating clean, responsive, and user-friendly digital experiences.
 
@@ -50,24 +50,24 @@ This portfolio serves as my professional online presence and showcases my techni
 
 ---
 
-## ✨ Features
+## âœ¨ Features
 
-- 🎨 Modern dark-themed interface
-- 📱 Fully responsive design
-- ⚡ Fast Vite-powered React application
-- 🎬 Smooth animations with Framer Motion
-- 👤 Professional profile avatar
-- 🛠️ Technical skills showcase
-- 🎓 Academic journey section
-- 📄 Resume download
-- 📧 Direct email contact
-- 🐙 GitHub integration
-- 🔗 Smooth navigation
-- 🚀 Production deployment with Vercel
+- ðŸŽ¨ Modern dark-themed interface
+- ðŸ“± Fully responsive design
+- âš¡ Fast Vite-powered React application
+- ðŸŽ¬ Smooth animations with Framer Motion
+- ðŸ‘¤ Professional profile avatar
+- ðŸ› ï¸ Technical skills showcase
+- ðŸŽ“ Academic journey section
+- ðŸ“„ Resume download
+- ðŸ“§ Direct email contact
+- ðŸ™ GitHub integration
+- ðŸ”— Smooth navigation
+- ðŸš€ Production deployment with Vercel
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 >>>>>>> 264912f (Add portfolio screenshots to README)
 
 ### Frontend
@@ -97,9 +97,9 @@ This portfolio serves as my professional online presence and showcases my techni
 ```text
 shreyanshu-portfolio/
 |
-├── public/
-│   ├── profile-avatar.jpg
-│   └── resume.pdf
+â”œâ”€â”€ public/
+â”‚   â”œâ”€â”€ profile-avatar.jpg
+â”‚   â””â”€â”€ resume.pdf
 |
 =======
 ### Development Tools
@@ -116,39 +116,39 @@ shreyanshu-portfolio/
 
 ---
 
-## 📂 Project Structure
+## ðŸ“‚ Project Structure
 
 ```text
 shreyanshu-portfolio/
-│
-├── public/
-│   ├── profile-avatar.jpg
-│   ├── resume.pdf
-│   └── favicon.svg
-│
+â”‚
+â”œâ”€â”€ public/
+â”‚   â”œâ”€â”€ profile-avatar.jpg
+â”‚   â”œâ”€â”€ resume.pdf
+â”‚   â””â”€â”€ favicon.svg
+â”‚
 >>>>>>> 264912f (Add portfolio screenshots to README)
-├── src/
-│   ├── components/
-│   │   ├── navbar.jsx
-│   │   ├── hero.jsx
-│   │   ├── about.jsx
-│   │   ├── skills.jsx
-│   │   ├── education.jsx
-│   │   ├── contact.jsx
-│   │   └── footer.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+â”œâ”€â”€ src/
+â”‚   â”œâ”€â”€ components/
+â”‚   â”‚   â”œâ”€â”€ navbar.jsx
+â”‚   â”‚   â”œâ”€â”€ hero.jsx
+â”‚   â”‚   â”œâ”€â”€ about.jsx
+â”‚   â”‚   â”œâ”€â”€ skills.jsx
+â”‚   â”‚   â”œâ”€â”€ education.jsx
+â”‚   â”‚   â”œâ”€â”€ contact.jsx
+â”‚   â”‚   â””â”€â”€ footer.jsx
+â”‚   â”‚
+â”‚   â”œâ”€â”€ App.jsx
+â”‚   â”œâ”€â”€ main.jsx
+â”‚   â””â”€â”€ index.css
 <<<<<<< HEAD
 |
 =======
-│
-├── .gitignore
-├── eslint.config.js
-├── index.html
+â”‚
+â”œâ”€â”€ .gitignore
+â”œâ”€â”€ eslint.config.js
+â”œâ”€â”€ index.html
 >>>>>>> 264912f (Add portfolio screenshots to README)
-├── package.json
-├── package-lock.json
-├── vite.config.js
-└── README.md
+â”œâ”€â”€ package.json
+â”œâ”€â”€ package-lock.json
+â”œâ”€â”€ vite.config.js
+â””â”€â”€ README.md
