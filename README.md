@@ -1,5 +1,6 @@
 # Shreyanshu Pratik — Developer Portfolio
 
+<<<<<<< HEAD
 A modern, responsive developer portfolio built with React, Vite, Tailwind CSS and Framer Motion.
 
 ## About Me
@@ -25,6 +26,49 @@ I am interested in software development, frontend development and modern web tec
 - Smooth scrolling
 
 ## Tech Stack
+=======
+A modern, responsive personal portfolio website built with React.js and Tailwind CSS to showcase my skills, education, resume, and professional profile.
+
+## 🌐 Live Portfolio
+
+**Portfolio:**  
+https://shreyanshu-portfolio-tawny.vercel.app
+
+**GitHub:**  
+https://github.com/pratikshreyanshu
+
+**Email:**  
+pratikshreyanshu@gmail.com
+
+---
+
+## 👨‍💻 About
+
+I'm an Information Technology student and aspiring Software Developer passionate about building modern web applications and creating clean, responsive, and user-friendly digital experiences.
+
+This portfolio serves as my professional online presence and showcases my technical skills, academic journey, resume, and ways to connect with me.
+
+---
+
+## ✨ Features
+
+- 🎨 Modern dark-themed interface
+- 📱 Fully responsive design
+- ⚡ Fast Vite-powered React application
+- 🎬 Smooth animations with Framer Motion
+- 👤 Professional profile avatar
+- 🛠️ Technical skills showcase
+- 🎓 Academic journey section
+- 📄 Resume download
+- 📧 Direct email contact
+- 🐙 GitHub integration
+- 🔗 Smooth navigation
+- 🚀 Production deployment with Vercel
+
+---
+
+## 🛠️ Tech Stack
+>>>>>>> 264912f (Add portfolio screenshots to README)
 
 ### Frontend
 
@@ -39,6 +83,7 @@ I am interested in software development, frontend development and modern web tec
 - Framer Motion
 - React Icons
 
+<<<<<<< HEAD
 ### Tools
 
 - Vite
@@ -56,6 +101,32 @@ shreyanshu-portfolio/
 │   ├── profile-avatar.jpg
 │   └── resume.pdf
 |
+=======
+### Development Tools
+
+- Vite
+- ESLint
+- Git
+- GitHub
+- VS Code
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```text
+shreyanshu-portfolio/
+│
+├── public/
+│   ├── profile-avatar.jpg
+│   ├── resume.pdf
+│   └── favicon.svg
+│
+>>>>>>> 264912f (Add portfolio screenshots to README)
 ├── src/
 │   ├── components/
 │   │   ├── navbar.jsx
@@ -69,7 +140,14 @@ shreyanshu-portfolio/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
+<<<<<<< HEAD
 |
+=======
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+>>>>>>> 264912f (Add portfolio screenshots to README)
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
