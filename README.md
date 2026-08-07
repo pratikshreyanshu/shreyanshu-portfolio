@@ -1,30 +1,30 @@
-# Shreyanshu Pratik â€” Developer Portfolio
+# Shreyanshu Pratik — Developer Portfolio
 
-A modern, responsive developer portfolio built with **React, Vite, Tailwind CSS and Framer Motion**.
+A modern, responsive developer portfolio built with React, Vite, Tailwind CSS and Framer Motion.
 
-## ðŸ‘¨â€ðŸ’» About Me
+## About Me
 
 Hi, I'm **Shreyanshu Pratik**, an Information Technology student and aspiring Software Developer passionate about building modern, responsive and user-friendly web applications.
 
 I am interested in software development, frontend development and modern web technologies. I enjoy building practical projects and continuously improving my technical skills.
 
-## âœ¨ Features
+## Features
 
-- ðŸŽ¨ Modern dark-themed UI
-- ðŸ“± Fully responsive design
-- âš¡ Fast Vite development environment
-- ðŸŽ¬ Smooth Framer Motion animations
-- ðŸ‘¤ Professional profile avatar
-- ðŸ“„ Resume download
-- ðŸ› ï¸ Technical skills section
-- ðŸŽ“ Education section
-- ðŸ“§ Direct email contact
-- ðŸ™ GitHub integration
-- ðŸ§­ Responsive navigation
-- ðŸŒŒ Animated background effects
-- ðŸ”— Smooth scrolling
+- Modern dark-themed UI
+- Fully responsive design
+- Fast Vite development environment
+- Smooth Framer Motion animations
+- Professional profile avatar
+- Resume download
+- Technical skills section
+- Education section
+- Direct email contact
+- GitHub integration
+- Responsive navigation
+- Animated background effects
+- Smooth scrolling
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -47,26 +47,30 @@ I am interested in software development, frontend development and modern web tec
 - VS Code
 - npm
 
-## ðŸ“‚ Project Structure
+## Project Structure
 
 ```text
 shreyanshu-portfolio/
-â”œâ”€â”€ public/
-â”‚   â”œâ”€â”€ profile-avatar.jpg
-â”‚   â””â”€â”€ resume.pdf
-â”œâ”€â”€ src/
-â”‚   â”œâ”€â”€ components/
-â”‚   â”‚   â”œâ”€â”€ navbar.jsx
-â”‚   â”‚   â”œâ”€â”€ hero.jsx
-â”‚   â”‚   â”œâ”€â”€ about.jsx
-â”‚   â”‚   â”œâ”€â”€ skills.jsx
-â”‚   â”‚   â”œâ”€â”€ education.jsx
-â”‚   â”‚   â”œâ”€â”€ contact.jsx
-â”‚   â”‚   â””â”€â”€ footer.jsx
-â”‚   â”œâ”€â”€ App.jsx
-â”‚   â”œâ”€â”€ main.jsx
-â”‚   â””â”€â”€ index.css
-â”œâ”€â”€ package.json
-â”œâ”€â”€ package-lock.json
-â”œâ”€â”€ vite.config.js
-â””â”€â”€ README.md
+|
+├── public/
+│   ├── profile-avatar.jpg
+│   └── resume.pdf
+|
+├── src/
+│   ├── components/
+│   │   ├── navbar.jsx
+│   │   ├── hero.jsx
+│   │   ├── about.jsx
+│   │   ├── skills.jsx
+│   │   ├── education.jsx
+│   │   ├── contact.jsx
+│   │   └── footer.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+|
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
